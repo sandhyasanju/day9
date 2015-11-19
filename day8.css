@@ -1,0 +1,26 @@
+body {
+  background: #CCCCFF;
+}
+.p {
+  display: inline;
+}
+#button {
+  float: right;
+}
+#textboxes {
+  float: left;
+}
+#th {
+  cursor: pointer;
+}
+.table10 {
+  border: 2px solid;
+}
+.table20 {
+  border: 2px solid;
+}
+#tbody {
+  align-self: center;
+  align-items: center;
+  align-content: center;
+}
